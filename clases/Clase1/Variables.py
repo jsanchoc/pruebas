@@ -25,3 +25,7 @@ print(numero1//numero2) #Division int
 print(numero1%numero2) #Resto de division
 print(numero1**numero2) #Exponente
 print(numero1**0.5) #Raíz cuadrada
+
+
+numeros = ["Fulano", "Mengano", 4]
+nombres = [3, 4, 5, 6]
